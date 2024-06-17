@@ -7,3 +7,8 @@ def perimeter(length, breath):
     return a
     
  print(perimeter(3,4))
+ 
+ l = print("enter the length")
+ b = print("enter the breath")
+ print(perimeter(l,b))
+ print(area(l,b))
