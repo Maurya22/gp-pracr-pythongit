@@ -1,5 +1,5 @@
 def perimeter(length, breath):
-   p = 3* (length + breath)
+   p = 2* (length + breath)
    return p
    
  def area(length, breath):
